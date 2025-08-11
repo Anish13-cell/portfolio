@@ -7,11 +7,13 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Kanishka</h1>
+        <h1 className={styles.title}>Hi, I'm Anish</h1>
         <p className={styles.description}>
-          I am a curious and enthusiastic Computer Science student with a strong interest in software development, 
-          data analysis, and machine learning. I enjoy working on real-world projects that solve meaningful problems — 
-          where I can combine creativity with logic to build something useful.
+          I’m a B.Tech IT student with experience in full-stack development, data science, and business strategy.
+          Through internships, NGO work, and entrepreneurial initiatives, 
+          I’ve worked on solving problems that blend technology with business impact. 
+          I enjoy taking ideas from concept to execution and creating solutions that 
+          are practical, scalable, and user-friendly.
         </p>
         <a href="mailto:adikanishka06@gail.com" className={styles.contactBtn}>
           Contact Me

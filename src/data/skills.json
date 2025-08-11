@@ -1,76 +1,42 @@
 [
  {
     "title": "Python",
-    "imageSrc": "skills/python.png",
-    "certificateUrl": "/certificates/python.pdf"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png",
-    "certificateUrl": "/certificates/javascript.pdf"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png",
-    "certificateUrl": "/certificates/react.pdf"
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png",
-    "certificateUrl": "/certificates/html.pdf"
+    "imageSrc": "skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png",
-    "certificateUrl": "/certificates/css.pdf"
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
   },
   {
     "title": "Flask",
     "imageSrc": "skills/flask.png"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/django.png"
-  },
-  {
     "title": "Data Science",
-    "imageSrc": "skills/datascience.png",
-    "certificateUrl": "/certificates/datascience.pdf"
-  },
-  {
-    "title": "SQL",
-    "imageSrc": "skills/sql.png",
-    "certificateUrl": "/certificates/sql.pdf"
-  },
- {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png",
-    "certificateUrl": "/certificates/mongodb.pdf"
-  },
-  {
-    "title": "Cloud Computing",
-    "imageSrc": "skills/cloudcomputing.png",
-    "certificateUrl": "/certificates/cloudcomputing.pdf"
+    "imageSrc": "skills/datascience.png"
   },
   {
     "title": "Artificial Intelligence",
-    "imageSrc": "skills/ai.png",
-    "certificateUrl": "/certificates/ai.pdf"
+    "imageSrc": "skills/ai.png"
   },
   {
     "title": "Machine Learning",
-    "imageSrc": "skills/ml.png",
-    "certificateUrl": "/certificates/ml.pdf"
+    "imageSrc": "skills/ml.png"
   },
   {
-    "title": "DeepLearning",
-    "imageSrc": "skills/deeplearning.png",
-    "certificateUrl": "/certificates/deeplearning.pdf"
-  },
-  {
-    "title": "NLP",
-    "imageSrc": "skills/nlp.png",
-    "certificateUrl": "/certificates/nlp.pdf"
+    "title": "Deep Learning",
+    "imageSrc": "skills/deeplearning.png"
   }
-
 ]

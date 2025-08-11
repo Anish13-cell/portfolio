@@ -6,19 +6,31 @@
     "endDate": "May 2026",
     "imageSrc": "education/logo.png",
     "details": [
-      "CGPA: 8.7/10",
+      "CGPA: 7/10",
       "Courses: Machine Learning, Data Structures, DBMS, Operating Systems",
-      "Involved in MUNs, hackathons, and sports"
+      "Involved in MUNs, hackathons, sports and clubs"
     ]
   },
   {
-    "degree": "Higher Secondary (ICSE)",
-    "institution": "St Ann's High School",
-    "startDate": "Apr 2010",
-    "endDate": "Mar 2020",
-    "imageSrc": "education/st anns.png",
+    "degree": "Intermediate (MPC)",
+    "institution": "FIITJEE Junior College ",
+    "startDate": "Apr 2020",
+    "endDate": "Mar 2022",
+    "imageSrc": "education/fiitjee.png",
     "details": [
-      "Percentage: 93%",
+      "Percentage: 91%",
+      "Mathematics, Physics, Chemistry stream",
+      "Active in sports and cultural events"
+    ]
+  },
+  {
+    "degree": "Higher Secondary (CBSE)",
+    "institution": "Bharatiya Vidya Bhavan's",
+    "startDate": "Apr 2008",
+    "endDate": "Mar 2020",
+    "imageSrc": "education/bvb.jpeg",
+    "details": [
+      "Percentage: 87%",
       "Science Stream with CS",
       "Senior sports captain, participated in various inter-school competitions"
     ]

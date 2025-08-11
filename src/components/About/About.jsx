@@ -18,31 +18,33 @@ export const About = () => {
   <li className={styles.aboutItem}>
     <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
     <div className={styles.aboutItemText}>
-      <h3>Full-Stack Developer</h3>
+    <h3>Problem-Solving Developer</h3>
       <p>
-        I build responsive web applications with clean frontends and efficient
-        backend systems using modern frameworks and tools.
+        I build practical, scalable web solutions — combining clean, responsive
+        frontends with efficient backend systems — always with the end-user and
+        business goal in mind.
       </p>
     </div>
   </li>
   <li className={styles.aboutItem}>
     <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
     <div className={styles.aboutItemText}>
-      <h3>Machine Learning Enthusiast</h3>
+      <h3>Data-Driven Thinker</h3>
       <p>
-        I’ve worked on projects involving churn prediction, RNNs, Transformers,
-      and Retrieval-Augmented Generation (RAG) using Hugging Face, scikit-learn,
-      and Python-based ML tools.
+        I analyze data to uncover insights that guide decisions, using tools like
+        Pandas, NumPy, and Matplotlib, and connecting the dots between technical
+        output and business impact.
       </p>
     </div>
   </li>
   <li className={styles.aboutItem}>
     <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
     <div className={styles.aboutItemText}>
-      <h3>Data Analyst</h3>
+      <h3>AI & Machine Learning Enthusiast</h3>
       <p>
-        I enjoy working with data — analyzing trends, cleaning datasets, and
-        drawing insights using tools like Pandas, NumPy, and Matplotlib.
+        I apply machine learning and automation to solve real problems like churn
+        prediction and RAG-based systems — using Hugging Face, scikit-learn, and
+        Python-based workflows.
       </p>
     </div>
   </li>
